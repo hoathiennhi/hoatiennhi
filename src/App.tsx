@@ -189,7 +189,7 @@ export default function App() {
           {/* Logo & Brand title */}
           <a href="#" className="flex items-center gap-2 group">
             <img
-              src="https://drive.google.com/uc?export=view&id=1AjGzZhfiXC9OkpN3EatM5CccNt_inTO_"
+              src="https://lh3.googleusercontent.com/d/1AjGzZhfiXC9OkpN3EatM5CccNt_inTO_"
               alt="Logo Hoa Thiên Nhi"
               className="w-10 h-10 rounded-full object-cover shadow-md transition-transform duration-500 group-hover:scale-110"
               referrerPolicy="no-referrer"
