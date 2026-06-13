@@ -188,9 +188,12 @@ export default function App() {
           
           {/* Logo & Brand title */}
           <a href="#" className="flex items-center gap-2 group">
-            <div className="w-9 h-9 rounded-full bg-[#722F37] flex items-center justify-center text-[#FAF5F0] shadow-md transition-transform duration-500 group-hover:rotate-180">
-              <Sparkle className="w-4.5 h-4.5 text-[#EAD7C3]" />
-            </div>
+            <img
+              src="https://drive.google.com/uc?export=view&id=1AjGzZhfiXC9OkpN3EatM5CccNt_inTO_"
+              alt="Logo Hoa Thiên Nhi"
+              className="w-10 h-10 rounded-full object-cover shadow-md transition-transform duration-500 group-hover:scale-110"
+              referrerPolicy="no-referrer"
+            />
             <div>
               <h1 className="font-serif text-lg sm:text-xl font-bold tracking-tight text-burgundy">
                 Hoa Thiên Nhi
